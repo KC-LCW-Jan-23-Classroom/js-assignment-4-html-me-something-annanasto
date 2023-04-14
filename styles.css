@@ -46,3 +46,7 @@ article {
     padding: 10px;
     margin: auto;
 }
+
+.funParagraph {
+    background-color: green;
+}
